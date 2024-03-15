@@ -31,9 +31,9 @@
 ![usb_host_config](https://github.com/huyle-hcmus/step-counting-device/assets/132913421/f0130782-3475-4e01-97a2-73b41d8f8a7e)
 
 *4.3. FATFS Config*
-![fatfs_config](https://github.com/huyle-hcmus/step-counting-device/assets/132913421/bbff8832-bc36-4339-96b6-5f26654f01a5)
+- ![fatfs_config](https://github.com/huyle-hcmus/step-counting-device/assets/132913421/bbff8832-bc36-4339-96b6-5f26654f01a5)
 
-![fatfs_config_2](https://github.com/huyle-hcmus/step-counting-device/assets/132913421/5d1e5b05-d566-456b-bff4-5df241f6654f)
+- ![fatfs_config_2](https://github.com/huyle-hcmus/step-counting-device/assets/132913421/5d1e5b05-d566-456b-bff4-5df241f6654f)
 
 ### Contributors
 - HUY LE
