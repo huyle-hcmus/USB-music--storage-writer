@@ -1,9 +1,7 @@
 /*
- * File_Handling_RTOS.c
+ * 
  *
- *  Created on: 26-June-2020
- *      Author: Controllerstech.com
- */
+*/
 
 #include "File_Handling.h"
 #include "stm32f4xx_hal.h"
